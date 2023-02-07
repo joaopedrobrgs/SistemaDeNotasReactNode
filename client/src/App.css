@@ -1,0 +1,31 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.2/font/bootstrap-icons.css");
+
+body{
+    background-image: linear-gradient(to bottom left, rgb(192,148,109), rgb(229,213,190), rgb(229,213,190), rgb(56,109,141));
+    background-repeat: no-repeat;
+    background-attachment: fixed;    
+}
+
+.bg-aliceblue{
+    background-color: aliceblue;
+}
+
+.text-red{
+    color: red;
+}
+
+/* .bg-beige{
+    background-image: linear-gradient(to bottom left, rgb(192,148,109), rgb(229,213,190), rgb(229,213,190), rgb(56,109,141));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+} */
+
+.bg-translucent{
+    background-color: rgba(236,224,208, 0.2);
+    box-shadow: 3px 3px 15px 1px rgba(55,55,55, 0.5);
+}
+
+.py-10px{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
